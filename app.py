@@ -3,7 +3,7 @@ import requests
 import json
 
 API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent'
-API_KEY = ''
+API_KEY = 'AIzaSyAqoaKr2AGfQyNx4t_PUotqswD-m_tqEo8'
 HEADERS = {
     'Content-Type': 'application/json',
     'X-goog-api-key': API_KEY
