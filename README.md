@@ -1,6 +1,7 @@
 # LinkedIn Post Generator
 
-Generate professional LinkedIn posts from any article URL using Gemini AI, with a beautiful Streamlit interface.
+Generate professional LinkedIn posts from any article URL using Gemini AI, with a beautiful Streamlit interface
+Check out :https://linkedin-post-generator-agxdqnwv3elufnuk9abxxp.streamlit.app/.
 
 ## Features
 - Enter any article URL and generate a concise, professional LinkedIn post.
